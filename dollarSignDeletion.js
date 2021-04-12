@@ -32,4 +32,4 @@ function isDollarDeleteEqual(input) {
   return array.join('') === input[1];
 }
 
-console.log(isDollarDeleteEqual(['r$$a$tba$', 'tb']));
+console.log(isDollarDeleteEqual(['r$$a$tb', 'tb']));
